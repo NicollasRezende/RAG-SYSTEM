@@ -1,0 +1,21 @@
+
+# Documentação do Sistema RAG
+
+## O que é RAG?
+RAG (Retrieval-Augmented Generation) é uma técnica que combina recuperação de informações
+com geração de texto usando modelos de linguagem. O sistema primeiro busca documentos
+relevantes em uma base de conhecimento e depois usa essas informações para gerar
+respostas contextualizadas.
+
+## Componentes principais
+1. Document Loader: Carrega e processa documentos de diferentes formatos
+2. Vector Store: Armazena embeddings dos documentos para busca eficiente
+3. Retriever: Busca documentos relevantes baseado em similaridade semântica
+4. LLM: Gera respostas baseadas nos documentos recuperados
+
+## Vantagens do RAG
+- Respostas baseadas em fontes específicas de conhecimento
+- Reduz alucinações do modelo
+- Permite atualização da base de conhecimento sem re-treinar o modelo
+- Transparência através das fontes citadas
+            

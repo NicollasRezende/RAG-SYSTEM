@@ -1,0 +1,22 @@
+# Core RAG dependencies
+langchain>=0.3.0
+langchain-community>=0.3.0
+ollama
+
+# Vector Store
+chromadb>=0.5.0
+
+# Embeddings
+sentence-transformers==2.3.1
+numpy>=2.0.0
+scipy>=1.13.0
+
+# Document loaders
+pypdf==4.0.1
+python-docx==1.1.0
+beautifulsoup4==4.12.3
+markdown==3.5.2
+
+# Utilities
+python-dotenv==1.0.0
+tiktoken==0.5.2
