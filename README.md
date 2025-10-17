@@ -586,7 +586,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 📞 Contato
 
 **Seu Nome**
-- GitHub: [@seu-usuario](github.com/NicollasRezende)
-- LinkedIn: [seu-perfil](linkedin.com/in/nicollas-rezende)
+- GitHub: [@NicollasRezende](github.com/NicollasRezende)
+- LinkedIn: [Nicollas Rezende](linkedin.com/in/nicollas-rezende)
 - Email: nicollaspereirarezende@outlook.com.br
 
