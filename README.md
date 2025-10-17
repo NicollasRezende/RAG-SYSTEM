@@ -553,16 +553,6 @@ ollama serve
    ollama pull llama3.2
    ```
 
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Para contribuir:
-
-1. Fork o projeto
-2. Crie uma branch (`git checkout -b feature/MinhaFeature`)
-3. Commit suas mudanças (`git commit -m 'Add: MinhaFeature'`)
-4. Push para a branch (`git push origin feature/MinhaFeature`)
-5. Abra um Pull Request
-
 ### Áreas para Contribuir
 
 - 🎨 Interface web (Streamlit, Gradio)
@@ -572,16 +562,6 @@ Contribuições são bem-vindas! Para contribuir:
 - 🌐 Suporte multilíngue aprimorado
 - 🧪 Testes automatizados
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 🙏 Agradecimentos
-
-- [LangChain](https://python.langchain.com/) - Framework incrível
-- [Ollama](https://ollama.ai/) - Por tornar LLMs locais acessíveis
-- [ChromaDB](https://www.trychroma.com/) - Vector store eficiente
-- [Sentence Transformers](https://www.sbert.net/) - Embeddings de qualidade
 
 ## 📞 Contato
 
