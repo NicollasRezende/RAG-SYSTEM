@@ -553,15 +553,6 @@ ollama serve
    ollama pull llama3.2
    ```
 
-### Áreas para Contribuir
-
-- 🎨 Interface web (Streamlit, Gradio)
-- 📊 Visualização de embeddings
-- 🔍 Melhorias no retrieval
-- 📝 Mais formatos de documentos
-- 🌐 Suporte multilíngue aprimorado
-- 🧪 Testes automatizados
-
 
 ## 📞 Contato
 
